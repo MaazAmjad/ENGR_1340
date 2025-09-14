@@ -124,10 +124,9 @@ If you reference or reuse course materials, please cite:
   title        = {Intro to Engineering Design},
   author       = {Maaz Amjad},
   year         = {2025},
-  howpublished = {\url{[https://github.com/MaazAmjad/ENGR_1340.git](https://github.com/MaazAmjad/ENGR_1340.git)}},
+  howpublished = {\url{https://github.com/MaazAmjad/ENGR_1340}},
 }
 ```
-
 ---
 
 ## 🙏 Acknowledgments
