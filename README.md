@@ -4,7 +4,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Issues Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)](#contributing)
 
-> Welcome to the **Introduction to Engineering Design** course repository! This repository serves as a comprehensive resource hub for materials and reference resources for **Intro to Engineering Design (ENGR 1340)**. The goal of this repository is to make it easy for students to find, use, and contribute to course content. This repository will support your learning journey in engineering design principles and web development fundamentals. 
+> Welcome to the **Introduction to Engineering Design** course repository! This repository serves as a comprehensive resource hub for materials and reference resources for **Intro to Engineering Design (ENGR 1340)**. The goal of this repository is to make it easy for students to find, use, and contribute to course content. This repository will support your learning journey in engineering design principles and web development fundamentals.
 
 ---
 
@@ -21,13 +21,12 @@ By the end of this course, students will be able to:
 - Implement responsive design principles
 - Collaborate in teams effectively on engineering projects
 
----
+## 👥 Who is this for?
 
-## Who is this for?
-- Students enrolled in **Intro to Engineering Design** (e.g., ENGR 1340) in Computer Science sections of the course at Texas Tech University
+- Students enrolled in **Intro to Engineering Design** (ENGR 1340) in Computer Science sections at Texas Tech University
 - Self‑learners who want a structured, project‑based introduction to engineering design
 
-```
+---
 
 ## 🌐 Web Development Learning Resources
 
@@ -80,9 +79,11 @@ By the end of this course, students will be able to:
 ### Additional Learning Tools
 - [CodePen](https://codepen.io/) - Online code editor for experimenting with HTML/CSS
 - [JSFiddle](https://jsfiddle.net/) - Test HTML, CSS, and JavaScript code snippets
-- [Repl.it](https://replit.com/) - Online IDE for web development
+- [Replit](https://replit.com/) - Online IDE for web development
 - [VS Code](https://code.visualstudio.com/) - Recommended text editor with helpful extensions
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) - Browser tools for debugging and testing
+
+---
 
 ## 🛠️ Engineering Design Resources
 
@@ -91,37 +92,44 @@ By the end of this course, students will be able to:
 - [Stanford d.school Resources](https://dschool.stanford.edu/resources) - Design thinking bootcamp materials
 - [Design Council Double Diamond](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond) - Popular design process model
 
+---
 
-## 🔄 Course Updates
+## 🔄 Repository Updates
 
-This repository will be updated with new materials and resources. Make sure to:
+This repository will be updated regularly with new materials and resources. Make sure to:
+- **Check latest changes** in the repository regularly
 
 ---
 
-**Happy Learning!**
+**Happy Learning!** 🎓
 
 *Remember: Engineering design is about solving problems creatively and systematically. Web development is just one tool in your toolkit – use it to bring your innovative ideas to life!*
 
 ---
 
 ## 📄 License
-- This course material repository is provided for educational purposes. Please respect copyright laws when using external resources. You may remix and share with attribution for non‑commercial use.
+
+This course material repository is provided for educational purposes. Please respect copyright laws when using external resources. You may remix and share with attribution for non‑commercial use.
+
+Licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
 
-## How to Cite This Repository
+## 📚 How to Cite This Repository
+
 If you reference or reuse course materials, please cite:
 
-```
+```bibtex
 @misc{intro_eng_design_repo,
   title        = {Intro to Engineering Design},
   author       = {Maaz Amjad},
   year         = {2025},
-  howpublished = {\url{https://github.com/<org-or-user>/<repo>}},
+  howpublished = {\url{[https://github.com/<org-or-user>/<repo>](https://github.com/MaazAmjad/ENGR_1340.git)}},
 }
 ```
 
 ---
 
-## Acknowledgments
+## 🙏 Acknowledgments
+
 Thanks to the teaching team, mentors, and prior students for feedback that continually improves these materials. Portions of the templates and rubrics draw inspiration from open educational resources across the engineering education community.
