@@ -124,7 +124,7 @@ If you reference or reuse course materials, please cite:
   title        = {Intro to Engineering Design},
   author       = {Maaz Amjad},
   year         = {2025},
-  howpublished = {\url{[https://github.com/<org-or-user>/<repo>](https://github.com/MaazAmjad/ENGR_1340.git)}},
+  howpublished = {\url{[https://github.com/MaazAmjad/ENGR_1340.git](https://github.com/MaazAmjad/ENGR_1340.git)}},
 }
 ```
 
@@ -132,4 +132,4 @@ If you reference or reuse course materials, please cite:
 
 ## 🙏 Acknowledgments
 
-Thanks to the teaching team, mentors, and prior students for feedback that continually improves these materials. Portions of the templates and rubrics draw inspiration from open educational resources across the engineering education community.
+Thanks to the teaching team at TTU: teaching and learning assistants, and prior students for feedback that continually improves these materials. Portions of the templates and rubrics draw inspiration from open educational resources across the engineering education community.
