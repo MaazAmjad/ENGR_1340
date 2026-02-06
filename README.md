@@ -82,6 +82,7 @@ By the end of this course, students will be able to:
 - [Replit](https://replit.com/) - Online IDE for web development
 - [VS Code](https://code.visualstudio.com/) - Recommended text editor with helpful extensions
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) - Browser tools for debugging and testing
+- [Chrome DevTools](https://neetcode.io/) - for preparaing technical interviews
 
 ---
 
