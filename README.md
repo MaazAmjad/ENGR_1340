@@ -38,6 +38,7 @@ By the end of this course, students will be able to:
 - [HTML.com Beginner's Guide](https://html.com/) - Comprehensive beginner-friendly HTML guide
 - [Codecademy HTML Course](https://www.codecademy.com/learn/learn-html) - Interactive HTML learning platform
 - [Khan Academy Intro to HTML](https://www.khanacademy.org/computing/computer-programming/html-css) - Video-based learning with practice exercises
+- [FreeCodeCamp Intro to HTML](https://www.youtube.com/watch?v=mU6anWqZJcc) - Learn HTML5 and CSS3 From Scratch
 
 #### **Intermediate Level**
 - [MDN HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - Complete reference for all HTML elements
